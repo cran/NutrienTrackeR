@@ -3,7 +3,7 @@ bibliography: knitcitations.bib
 csl: template.csl
 css: mystyle.css
 output: 
-  if (requireNamespace("BiocStyle", quietly = TRUE)) {
+  if (requireNamespace("BiocStyle", quietly = TRUE) & (Sys.info()[['sysname']] != "Windows")) {
     BiocStyle::html_document
   } else if (requireNamespace("rmarkdown", quietly = TRUE)) {
     rmarkdown::html_document

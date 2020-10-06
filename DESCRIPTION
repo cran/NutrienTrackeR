@@ -1,8 +1,8 @@
 Package: NutrienTrackeR
 Type: Package
 Title: Food Composition Information and Dietary Assessment
-Version: 0.99.2
-Date: 2018-06-15
+Version: 0.99.3
+Date: 2020-10-06
 Author: Andrea Rodriguez-Martinez, Rafael Ayala, Yacine Debbabi, Lara Selles Vidal
 Maintainer: Rafael Ayala <r.ayala14@imperial.ac.uk>
 Contact: Andrea Rodriguez-Martinez
@@ -17,6 +17,6 @@ Imports: ggplot2
 NeedsCompilation: no
 LazyData: true
 Encoding: UTF-8
-Packaged: 2018-06-24 15:10:21 UTC; Rafael
+Packaged: 2020-10-06 16:37:09 UTC; ra3014
 Repository: CRAN
-Date/Publication: 2018-06-27 14:58:27 UTC
+Date/Publication: 2020-10-06 17:10:02 UTC
