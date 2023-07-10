@@ -11,7 +11,7 @@ subsetFoodRichIn(nutrient_name, food_database = "USDA", food_group = NULL, n = 1
 \arguments{
   \item{nutrient_name}{character vector indicating the name of the nutrient of interest.}
   \item{food_database}{character vector indicating the food database to be used. 
-  Possible values are: "USDA", "CIQUAL", "BEDCA".}
+  Possible values are: "USDA", "CIQUAL", "BEDCA", "STFCJ".}
   \item{food_group}{character vector indicating the food group(s) of interest. 
   NULL indicates that all food groups are considered. }
   \item{n}{numeric value indicating the number of foods to be selected.}

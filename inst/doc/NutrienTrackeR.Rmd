@@ -39,9 +39,8 @@ diet quality and for the development of food-based dietary guidelines [@ahuja201
 
 <p style="font-size:110%"> <b>NutrienTrackeR</b> is a tool set for food information and 
 dietary assessment. It uses food composition data from several reference databases, 
-including: USDA (US), CIQUAL (France), and BEDCA (Spain). <b>NutrienTrackeR</b> calculates
-the intake levels for both macronutrients and micronutrients, and compares them 
-with the recommended dietary allowances. It also includes a number of visualization 
+including: USDA (US), CIQUAL (France), BEDCA (Spain), CIF (Canada) and STFCJ (Japan).
+<b>NutrienTrackeR</b> calculates the intake levels for both macronutrients and micronutrients, and compares them with the recommended dietary allowances. It also includes a number of visualization 
 tools, such as time series plots of nutrient intake, or pie-charts showing the main foods
 contributing to the intake levels of a given nutrient. <br><br> </p>
 

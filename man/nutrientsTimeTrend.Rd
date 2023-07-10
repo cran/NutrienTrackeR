@@ -14,7 +14,7 @@ nutrientsTimeTrend(my_daily_food, food_database = "USDA", nutrients = NULL,
   daily intake. The matrix must have two columns: 1)"food" (reporting food names) and
   2) "units" (reporting the number of units relative to 100 grams, e.g. 125 g -> 1.25).}
   \item{food_database}{character vector indicating the food database to be used.
-  Possible values are: "USDA", "CIQUAL", "BEDCA".}
+  Possible values are: "USDA", "CIQUAL", "BEDCA", "STFCJ".}
   \item{nutrients}{character vector indicating the subset of nutrients that will be
   displayed. NULL indicates that all nutrients will be displayed. }
   \item{age}{numeric vector indicating age.}

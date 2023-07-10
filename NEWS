@@ -1,3 +1,6 @@
+Changes in version 1.2.0 (2023-07-10)
++ Added the STFCJ database from Japan to the available databases
+
 Changes in version 1.2.0 (2021-11-14)
 + Added the CNF database from Canada to the available databases
 + Now findFoodName ignores case by default

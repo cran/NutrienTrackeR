@@ -9,7 +9,7 @@ getNutrientNames(food_database = "USDA")
 }
 \arguments{
   \item{food_database}{character vector indicating the food database to be used. 
-  Possible values are: "USDA", "CIQUAL", "BEDCA", "CNF".}
+  Possible values are: "USDA", "CIQUAL", "BEDCA", "CNF", "STFCJ".}
 }
 \value{
 A vector of nutrient names. 
